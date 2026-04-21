@@ -18,7 +18,7 @@ Figure From Knipper et al: Heatmaps illustrating model resistance against bias. 
 ↓
  lower scores (warmer colors) indicate susceptibility.  
  
-<br>*Note*: TELeR levels are used to study LLM behavior by assigning a taxonomy to prompts based on their structure and detail. Level 1 has the least amount of information and no directive while Level 6 includes a complex directive, sub-task descriptions, examples, etc.
+<br>*Note*: [TELeR levels](https://arxiv.org/pdf/2305.11430) are used to study LLM behavior by assigning a taxonomy to prompts based on their structure and detail. Level 1 has the least amount of information and no directive while Level 6 includes a complex directive, sub-task descriptions, examples, etc.
 
 ## What's a Solution?
 NOT educating employees how to ask better questions. That's slow and very hard. Changing human behavior is one of the hardest things on earth.
