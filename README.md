@@ -12,7 +12,13 @@ Decision quality suffers from biased advice. If employees are using LLMs and LLM
 That's a governance issue, and CIOs should be concerned.
 
 <img width="4200" height="2811" alt="image" src="https://github.com/user-attachments/assets/d67bd657-0706-4339-9973-72f032cd9ed2" />
-
+Figure From Knipper et al: Heatmaps illustrating model resistance against bias. Each subplot is a distinct bias; rows indicate models tested (ordered by score) and columns denote TELeR levels (1–5). Colors reflect average bias resistance scores, where 
+↑
+ higher scores (cooler colors) indicate resistance and 
+↓
+ lower scores (warmer colors) indicate susceptibility.  
+ 
+<br>*Note*: TELeR levels are used to study LLM behavior by assigning a taxonomy to prompts based on their structure and detail. Level 1 has the least amount of information and no directive while Level 6 includes a complex directive, sub-task descriptions, examples, etc.
 
 ## What's a Solution?
 NOT educating employees how to ask better questions. That's slow and very hard. Changing human behavior is one of the hardest things on earth.
