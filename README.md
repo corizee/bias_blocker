@@ -22,3 +22,9 @@ Employees can type their questions as they naturally would–but the agent knows
 
 Another solution is coaching the LLM to behave differently. But coaching the answer is downstream. You're asking the model to recognize and correct for a bias that has already influenced its processing. The Cheung et al. paper showed that models often can't do this reliably, and when they do self-correct, it can look like reasoning even when it's just masking.
 
+## How to Use This File?
+Add this file to your project and reference it as your system prompt at the start of any LLM session where decisions, recommendations, or judgments will be made.
+
+## Can I help?
+*Bias Blocker is an open project. Contributions welcome!*
+
