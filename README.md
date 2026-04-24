@@ -32,5 +32,6 @@ Another solution is coaching the LLM to behave differently. But coaching the ans
 Add this file to your project and reference it as your system prompt at the start of any LLM session where decisions, recommendations, or judgments will be made.
 
 ## Can I help?
-*Bias Blocker is an open project. Contributions welcome!*
+*Bias Blocker is an Open Source project. Take a look and help us build better collective decision-making.
+*
 
